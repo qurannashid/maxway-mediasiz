@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-nav{
+    font-weight: 500;
+}
+form .btn{
+    background:#51267d;
+    color: white;
+    margin-left: 20px;
+}
+.d-flex a{
+    color:#51267d;
+    text-decoration: none;
+    font-weight: 600;
+}
+.hhh{
+    font-size: 25px;
+    margin-top: 100px;
+    /* margin-left: 60px; */
+}
+.kategoriya{
+    font-family: 'Proxima-Nova', sans-serif;
+    font-size:18px;
+    font-weight: 400;
+
+}
+.kategoriya{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 18px;
+}
+.fff{
+    margin-left: 60px; 
+}
+.container1{
+    width: 93%;
+    /* display: grid;
+    grid-template-columns: repeat(4 , 23%);
+    grid-gap: 20px; */
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    font-family: 'Proxima-Nova', sans-serif;
+}
+.ona{
+    justify-content: space-around;
+}
+.afa{
+    border: 0px solid gray;
+    background:gainsboro;
+    outline: none !important;
+    color:#51267d; 
+    width: 50%;
+    height:40px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: 'Proxima-Nova', sans-serif;
+}
+.ona p{
+    margin-top: 6px;
+    font-weight: bold;
+}
+.aaa {
+    margin-left:115px;
+}
+.sect{
+    font-family: 'Proxima-Nova', sans-serif;
+    margin-left: 115px;
+    width: 83%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.card{
+    font-weight:500;
+}
+.card-text{
+    color: gray;
+}
+.way{
+    margin-left:115px;
+}
+.lavash-container{
+    display: flex;
+    justify-content: space-around;
+    width: 83%;
+    margin-left:115px;
+}
+.lawaw{
+    justify-content: space-around;
+    margin-left: 115px;
+    width: 83%;
+}
+.lavash-oxiri{
+    margin-left: 115px;
+    width: 70%;
+}
+.fast{
+    margin-left: 115px;
+}
+.donar{
+    justify-content: space-around;
+    width: 83%;
+    margin-left:70px;
+    margin-bottom: 40px;
+}
+.onam{
+    justify-content: space-around;
+    margin-top: 70px;
+}
+.onam p{
+    margin-top: 6px;
+    font-weight: bold;
+}
+footer{
+    background: #51267d;
+    width: 1347px;
+    height: 387px;
+}
+.maks .logosi img{
+    margin-left: 650px;
+    margin-top: 80px;
+}
+.ullu{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    width: 50%;
+    margin-left: 320px;
+    margin-top: 30px;
+}
+.ullu li{
+    list-style:none;
+}
+.ullu a{
+    text-decoration: none;
+    color: white;
+}
+.oxirgi{
+    color: rgb(221, 214, 214);
+    font-family: 'Proxima-Nova', sans-serif;
+    font-size: 15px;
+    margin-left: -60px;
+    margin-top: 40px;
+
+}
+.ava{
+    font-size: 100px;
+}
+.ikonka{
+    display: flex;
+    justify-content: space-around;
+}
+.second{
+    padding-right: 20px;
+}
+.the-end {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(224, 221, 221);
+}
+.the-end p{
+    margin-right: 120px;
+}
+.the-end h6{
+    margin-left: 400px;
+}
